@@ -1,4 +1,4 @@
-# PDF Insight
+# PDF Insight Engine
 
 
 ## Table of Contents
