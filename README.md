@@ -21,7 +21,7 @@ PDF Insight is a Python-based web application that enables users to upload PDF f
 - **Answer Generation:** Using advanced language understanding models, the application generates accurate answers to user questions based on the content of the uploaded PDFs.
 
 ## Technology Stack
-- **Python 3.8:** The primary programming language used for development.
+- **Python 3.10:** The primary programming language used for development.
 - **Streamlit 1.0:** Streamlit is utilized as the web application framework to create interactive and responsive user interfaces.
 - **Langchain Google GenAI:** Langchain Google GenAI is a cutting-edge language understanding model developed by Langchain in collaboration with Google. It is specifically tailored for extracting key points and generating answers from textual data such as PDF documents.
 - **LLM (Language Learning Model):** LLM is a sophisticated language understanding model designed to process natural language queries with high accuracy and efficiency.
@@ -30,8 +30,8 @@ PDF Insight is a Python-based web application that enables users to upload PDF f
 1. Clone the repository to your local machine:
 
 ```bash
-git clone Query-With-PDF
-cd Query-With-PDFs
+git PDF-Insight
+cd PDF-Insight
 ```
 1. **Install the required dependencies:**
 
