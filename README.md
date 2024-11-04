@@ -30,8 +30,8 @@ PDF Insight is a Python-based web application that enables users to upload PDF f
 1. Clone the repository to your local machine:
 
 ```bash
-git PDF-Insight
-cd PDF-Insight
+git PDF Insight Engine
+cd PDF Insight Engine
 ```
 1. **Install the required dependencies:**
 
